@@ -23,14 +23,6 @@ A collection of C programming projects and practice exercises covering fundament
 - **mulitply the matrics.c** - Multiply two matrices
 - **diagonal elements.c** - Extract and work with diagonal elements
 
-### Practice Exercises
-Located in `c pratice/` folder:
-- **1st.c** through **5th.c** - Progressive practice programs
-
-### Experiments
-Located in `exp 8/` and `exp 9/` folders:
-- **exp 8/** - Questions 1-9 with detailed solutions
-- **exp 9/** - Additional experiment programs
 
 ### Output Files
 - `output/` - Compiled executable files (.exe)
@@ -88,37 +80,3 @@ Located in `exp 8/` and `exp 9/` folders:
    ```bash
    ./output_filename
    ```
-
-## 📚 Program Categories
-
-### Fundamental Concepts
-- Variables and data types
-- Control flow (if-else, loops)
-- Functions and recursion
-- Arrays and matrices
-
-### Advanced Topics
-- Dynamic memory allocation
-- Pointers and double pointers
-- String manipulation
-- Matrix operations
-
-## 🎯 Learning Outcomes
-
-By working through these programs, you'll understand:
-- ✅ Input/output operations
-- ✅ Conditional statements and loops
-- ✅ Array and matrix manipulation
-- ✅ String processing
-- ✅ Function definitions and calls
-- ✅ Memory management
-- ✅ Pointer operations
-- ✅ Mathematical algorithms
-
-## 📝 Notes
-
-- Some files contain compiled executables (.exe) for quick testing
-- File naming follows descriptive conventions for easy identification
-- Programs are suitable for beginners and intermediate learners
-- All programs use standard C library functions
-
